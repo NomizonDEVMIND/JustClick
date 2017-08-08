@@ -1,0 +1,4 @@
+name: JustClick
+version: 1.0
+author: MavenProjekt
+main: de.nomizon.justclick.main.JustClick
